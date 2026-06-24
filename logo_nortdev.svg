@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" fill="none">
+  <defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="220" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F3A69"/>
+      <stop offset="1" stop-color="#071C36"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="120" y1="20" x2="300" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8A00"/>
+      <stop offset="1" stop-color="#F06A00"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(0,10)">
+    <text x="10" y="175" font-family="Inter, Arial, sans-serif" font-size="190" font-weight="800" letter-spacing="-8">
+      <tspan fill="url(#navy)">N</tspan>
+      <tspan fill="url(#orange)">D</tspan>
+    </text>
+
+    <g transform="translate(260,56)" fill="#0A274A">
+      <text x="0" y="86" font-family="Inter, Arial, sans-serif" font-size="74" font-weight="800" letter-spacing="2">NORTDEV</text>
+      <text x="0" y="142" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="500" fill="#16375C">Tecnologia &amp; Inovação</text>
+    </g>
+  </g>
+</svg>

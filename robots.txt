@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emersonaraujoss.github.io/site_norteDev/sitemap.xml
