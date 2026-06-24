@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Equipe profissional de oficina mecanica especializada</title>
+  <desc id="desc">Imagem vetorial com equipe de mecanicos, incluindo uma mulher, em frente a um carro dentro de uma oficina moderna.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eeeeef"/>
+      <stop offset="55%" stop-color="#d8dade"/>
+      <stop offset="100%" stop-color="#bcbfc6"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#b7bac0"/>
+      <stop offset="100%" stop-color="#9498a0"/>
+    </linearGradient>
+    <linearGradient id="carWhite" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#edf1f4"/>
+      <stop offset="100%" stop-color="#c7ccd1"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4f8fb" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#7f8b96" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b1f"/>
+      <stop offset="100%" stop-color="#2e3136"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b61f25"/>
+      <stop offset="100%" stop-color="#db4a50"/>
+    </linearGradient>
+    <linearGradient id="skinA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#dab19f"/>
+      <stop offset="100%" stop-color="#b57c67"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#232326" flood-opacity="0.18"/>
+    </filter>
+    <filter id="softBlur">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#wall)"/>
+  <rect x="0" y="655" width="1600" height="245" fill="url(#floor)"/>
+  <rect x="0" y="615" width="1600" height="55" fill="#b0b5bb"/>
+
+  <g opacity="0.34" filter="url(#softBlur)">
+    <circle cx="1300" cy="168" r="145" fill="#ffffff"/>
+    <circle cx="230" cy="210" r="110" fill="#ffffff"/>
+  </g>
+
+  <g opacity="0.85">
+    <rect x="186" y="78" width="200" height="18" rx="9" fill="#ffffff"/>
+    <rect x="458" y="78" width="250" height="18" rx="9" fill="#ffffff"/>
+    <rect x="784" y="78" width="250" height="18" rx="9" fill="#ffffff"/>
+    <rect x="1114" y="78" width="220" height="18" rx="9" fill="#ffffff"/>
+    <rect x="1398" y="78" width="112" height="18" rx="9" fill="#ffffff"/>
+  </g>
+
+  <g opacity="0.18">
+    <rect x="46" y="170" width="30" height="56" rx="6" fill="#b61f25"/>
+    <rect x="92" y="170" width="30" height="56" rx="6" fill="#b61f25"/>
+    <rect x="1178" y="160" width="268" height="166" rx="24" fill="#202327"/>
+    <rect x="1210" y="194" width="206" height="12" rx="6" fill="#cfd3d8"/>
+    <rect x="1210" y="228" width="160" height="10" rx="5" fill="#8a8f97"/>
+    <rect x="1210" y="254" width="184" height="10" rx="5" fill="#8a8f97"/>
+  </g>
+
+  <g opacity="0.28">
+    <path d="M1330 274c20-24 30-55 30-92" stroke="#d13a40" stroke-width="12" stroke-linecap="round"/>
+    <path d="M1292 210c18-18 44-28 72-28" stroke="#d13a40" stroke-width="12" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="1280" y="146" width="122" height="352" rx="18" fill="#26282d"/>
+    <rect x="1310" y="126" width="62" height="26" rx="13" fill="url(#accent)"/>
+    <path d="M1280 204h122" stroke="#3c4047" stroke-width="8"/>
+    <rect x="1222" y="236" width="180" height="18" rx="9" fill="#1e2024"/>
+    <circle cx="1298" cy="252" r="14" fill="#1e2024"/>
+    <circle cx="1386" cy="252" r="14" fill="#1e2024"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M262 640c28-94 104-176 254-194l314-24c82-6 152 13 202 74l94 116c34 42 68 57 126 69l84 17c30 6 50 31 50 61v35c0 28-22 50-50 50h-95c-15-95-84-162-178-162s-163 67-178 162H585c-15-95-84-162-178-162s-163 67-178 162h-76c-28 0-51-23-51-51v-54c0-26 18-47 43-53z"
+      fill="url(#carWhite)"/>
+    <path d="M610 459l254-18c63-4 114 10 146 47l74 86H494c23-58 57-99 116-115z" fill="url(#glass)"/>
+    <path d="M720 454l14 121M860 445l24 129" stroke="#d6dde3" stroke-width="6" opacity="0.7"/>
+    <path d="M298 652h912" stroke="url(#accent)" stroke-width="12" stroke-linecap="round"/>
+    <path d="M254 692h96M1174 692h84" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+    <rect x="714" y="632" width="72" height="56" rx="8" fill="#23262b"/>
+    <rect x="683" y="692" width="136" height="76" rx="10" fill="#dde2e7"/>
+    <path d="M683 730h136" stroke="#9ea4ab" stroke-width="5"/>
+    <circle cx="420" cy="842" r="118" fill="#1d1f23"/>
+    <circle cx="420" cy="842" r="68" fill="#aeb4bc"/>
+    <circle cx="420" cy="842" r="28" fill="#676d75"/>
+    <circle cx="1046" cy="842" r="118" fill="#1d1f23"/>
+    <circle cx="1046" cy="842" r="68" fill="#aeb4bc"/>
+    <circle cx="1046" cy="842" r="28" fill="#676d75"/>
+  </g>
+
+  <g opacity="0.16">
+    <ellipse cx="800" cy="810" rx="490" ry="48" fill="#232326"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M100 398c40-24 76-30 116-18l84 28-26 78-86-28c-40-14-72-34-88-60z" fill="#cfd3d8"/>
+    <path d="M146 414l44 14-24 73-40-14c-18-6-32-18-42-34z" fill="#aeb3ba"/>
+  </g>
+
+  <g transform="translate(180 250)" filter="url(#shadow)">
+    <ellipse cx="94" cy="512" rx="76" ry="18" fill="#6d737b" opacity="0.35"/>
+    <circle cx="94" cy="86" r="40" fill="url(#skinA)"/>
+    <path d="M54 86c0-24 18-46 40-46 24 0 44 22 44 46v10H54z" fill="#1b1c20"/>
+    <rect x="32" y="132" width="126" height="194" rx="26" fill="url(#shirt)"/>
+    <rect x="32" y="132" width="126" height="34" rx="16" fill="#f06a21"/>
+    <path d="M86 166l-18 32h52l-16-32z" fill="#1a1b1f"/>
+    <path d="M32 198c-18 12-32 34-40 66l62 22 26-72z" fill="url(#shirt)"/>
+    <path d="M158 198c18 12 32 34 40 66l-62 22-26-72z" fill="url(#shirt)"/>
+    <path d="M82 220l46 90 24-58" stroke="url(#skinA)" stroke-width="24" stroke-linecap="round"/>
+    <path d="M112 220l-44 88-28-54" stroke="url(#skinA)" stroke-width="24" stroke-linecap="round"/>
+    <rect x="56" y="322" width="38" height="158" rx="18" fill="#1f2024"/>
+    <rect x="104" y="322" width="38" height="158" rx="18" fill="#1f2024"/>
+    <rect x="48" y="472" width="46" height="24" rx="10" fill="#15161a"/>
+    <rect x="104" y="472" width="46" height="24" rx="10" fill="#15161a"/>
+    <rect x="116" y="204" width="28" height="16" rx="8" fill="#f06a21"/>
+  </g>
+
+  <g transform="translate(420 208)" filter="url(#shadow)">
+    <ellipse cx="102" cy="556" rx="78" ry="18" fill="#6d737b" opacity="0.35"/>
+    <circle cx="102" cy="92" r="40" fill="url(#skinA)"/>
+    <path d="M70 80c0-20 16-38 36-38 24 0 42 16 42 40v16H78z" fill="#2a2b30"/>
+    <path d="M58 132c10-20 26-30 50-30 30 0 48 10 60 30v210H48z" fill="url(#shirt)"/>
+    <rect x="48" y="132" width="120" height="30" rx="15" fill="#f06a21"/>
+    <path d="M104 162l-14 28h34l-10-28z" fill="#24262b"/>
+    <path d="M48 206c-24 20-36 44-42 82l60 10 18-82z" fill="url(#shirt)"/>
+    <path d="M168 206c24 20 36 44 42 82l-60 10-18-82z" fill="url(#shirt)"/>
+    <path d="M98 240l-30 74-26-34" stroke="url(#skinA)" stroke-width="26" stroke-linecap="round"/>
+    <path d="M116 240l32 76 26-38" stroke="url(#skinA)" stroke-width="26" stroke-linecap="round"/>
+    <rect x="62" y="340" width="42" height="174" rx="20" fill="#1f2024"/>
+    <rect x="114" y="340" width="42" height="174" rx="20" fill="#1f2024"/>
+    <rect x="56" y="506" width="50" height="26" rx="10" fill="#15161a"/>
+    <rect x="112" y="506" width="50" height="26" rx="10" fill="#15161a"/>
+    <rect x="120" y="206" width="28" height="16" rx="8" fill="#f06a21"/>
+  </g>
+
+  <g transform="translate(676 210)" filter="url(#shadow)">
+    <ellipse cx="94" cy="562" rx="82" ry="18" fill="#6d737b" opacity="0.35"/>
+    <circle cx="96" cy="92" r="42" fill="url(#skinA)"/>
+    <path d="M60 68c18-28 54-36 80-12 9 8 16 20 18 34v22H54z" fill="#1b1c20"/>
+    <rect x="36" y="136" width="120" height="212" rx="26" fill="url(#shirt)"/>
+    <rect x="36" y="136" width="120" height="28" rx="14" fill="#f06a21"/>
+    <path d="M56 154c16 18 34 28 54 28s36-8 48-24l-2 40H40z" fill="#23252a"/>
+    <rect x="44" y="344" width="44" height="180" rx="22" fill="#2d4d7d"/>
+    <rect x="104" y="344" width="44" height="180" rx="22" fill="#2d4d7d"/>
+    <rect x="38" y="516" width="52" height="26" rx="10" fill="#15161a"/>
+    <rect x="100" y="516" width="52" height="26" rx="10" fill="#15161a"/>
+    <path d="M96 212v98" stroke="url(#skinA)" stroke-width="22" stroke-linecap="round"/>
+    <rect x="112" y="208" width="26" height="14" rx="7" fill="#f06a21"/>
+  </g>
+
+  <g transform="translate(918 198)" filter="url(#shadow)">
+    <ellipse cx="94" cy="574" rx="80" ry="18" fill="#6d737b" opacity="0.35"/>
+    <circle cx="96" cy="96" r="38" fill="url(#skinA)"/>
+    <path d="M52 90c4-28 22-50 44-58 34 14 48 36 52 66v18H52z" fill="#2c2e33"/>
+    <path d="M62 128c16-14 28-20 34-20 10 0 16 8 28 20l34 214H34z" fill="url(#shirt)"/>
+    <rect x="34" y="128" width="126" height="30" rx="15" fill="#f06a21"/>
+    <path d="M90 126c12 26 10 46 6 68" stroke="#2c2e33" stroke-width="8" stroke-linecap="round"/>
+    <path d="M48 210c-22 20-36 46-44 84l60 10 22-86z" fill="url(#shirt)"/>
+    <path d="M148 210c24 20 38 48 46 90l-58 8-22-86z" fill="url(#shirt)"/>
+    <path d="M100 242l-34 80-26-44" stroke="url(#skinA)" stroke-width="24" stroke-linecap="round"/>
+    <path d="M112 242l36 82 28-46" stroke="url(#skinA)" stroke-width="24" stroke-linecap="round"/>
+    <rect x="50" y="352" width="40" height="184" rx="20" fill="#1f2024"/>
+    <rect x="106" y="352" width="40" height="184" rx="20" fill="#1f2024"/>
+    <rect x="46" y="528" width="46" height="24" rx="10" fill="#15161a"/>
+    <rect x="104" y="528" width="46" height="24" rx="10" fill="#15161a"/>
+    <rect x="120" y="212" width="28" height="14" rx="7" fill="#f06a21"/>
+  </g>
+
+  <g transform="translate(1186 232)" filter="url(#shadow)">
+    <ellipse cx="92" cy="540" rx="78" ry="18" fill="#6d737b" opacity="0.35"/>
+    <circle cx="92" cy="86" r="40" fill="url(#skinA)"/>
+    <path d="M50 86c0-24 18-42 42-42s44 18 44 42v12H50z" fill="#1a1b1f"/>
+    <rect x="34" y="126" width="118" height="208" rx="28" fill="url(#shirt)"/>
+    <rect x="34" y="126" width="118" height="30" rx="15" fill="#f06a21"/>
+    <path d="M62 202c-18 18-30 46-32 92" stroke="url(#skinA)" stroke-width="24" stroke-linecap="round"/>
+    <path d="M124 204v134" stroke="url(#skinA)" stroke-width="24" stroke-linecap="round"/>
+    <rect x="50" y="334" width="40" height="176" rx="20" fill="#1f2024"/>
+    <rect x="102" y="334" width="40" height="176" rx="20" fill="#1f2024"/>
+    <rect x="44" y="502" width="48" height="24" rx="10" fill="#15161a"/>
+    <rect x="100" y="502" width="48" height="24" rx="10" fill="#15161a"/>
+    <rect x="112" y="202" width="28" height="14" rx="7" fill="#f06a21"/>
+  </g>
+
+  <g opacity="0.12">
+    <path d="M1338 564l80 146" stroke="#232326" stroke-width="24" stroke-linecap="round"/>
+    <path d="M1280 594l56 118" stroke="#232326" stroke-width="18" stroke-linecap="round"/>
+  </g>
+</svg>
