@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = '5500000000000';
+const WHATSAPP_NUMBER = '5592993898610';
 
 window.addEventListener('DOMContentLoaded', () => {
   initMobileMenu();
@@ -93,7 +93,7 @@ function initContactForm() {
 
     const serviceLabel = getServiceLabel(service);
     const whatsappMessage = [
-      'Olá! Vim pelo site da oficina e quero solicitar atendimento.',
+      'Olá! Vim pelo site da Oficina Original e quero solicitar atendimento.',
       '',
       '*Dados do cliente*',
       `*Nome:* ${name}`,
@@ -116,8 +116,7 @@ function getServiceLabel(service) {
   const labels = {
     preventiva: 'Manutenção preventiva',
     corretiva: 'Manutenção corretiva',
-    pecas: 'Venda de peças',
-    diagnostico: 'Diagnóstico automotivo especializado',
+    diagnostico: 'Diagnóstico computadorizado',
   };
 
   return labels[service] || service;
